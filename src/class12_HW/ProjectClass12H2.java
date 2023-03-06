@@ -1,4 +1,4 @@
-package class12;
+package class12_HW;
 
 import java.util.Scanner;
 
@@ -16,7 +16,7 @@ import java.util.Scanner;
          Dad’s first name? Daniel
          Boy or Girl? girl
          Suggested baby name: MAIEL*/
-public class Homework3 {
+public class ProjectClass12H2 {
                 public static void main(String[] args) {
 
                         Scanner input=new Scanner(System.in);

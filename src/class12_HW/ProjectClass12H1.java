@@ -1,6 +1,6 @@
-package class12;
+package class12_HW;
  //2) Create a String and print it in reverse order (Sunday → yadnuS).
-public class Homework2 {
+public class ProjectClass12H1 {
   public static void main(String[] args) {
 
    String weekday="Sunday";
